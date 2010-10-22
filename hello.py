@@ -1,4 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-print('Helloo world')
+print('Helloo world'*2)
+
